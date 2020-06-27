@@ -1,6 +1,6 @@
 /*
    This file is part of dl_list (double linked list) implementation. 
-   Copyright (C) 2016 Anssi Kulju 
+   Copyright (C) 2020 Anssi Kulju 
 
    This program is free software: you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
